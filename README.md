@@ -1,6 +1,7 @@
 # HP-ProDesk600-G5-mini-OpenCore
 Repository to hold the files needed to install and run macOS on HP ProDesk G5 mini
-Change XX-MASKED-XX values in PlatformInfo section in config.plist file with your own values. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
+
+Change XX-MASKED-XX values in PlatformInfo section in config.plist file with your own values using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
 ## Tested versions
 OpenCore: 0.5.9
@@ -39,4 +40,5 @@ Intel WiFi - Can work with new Intel WiFi kexts, but not for services like hando
 
 ## Thanks
 -Apple
+
 -[@Acidanthera](https://github.com/acidanthera)
