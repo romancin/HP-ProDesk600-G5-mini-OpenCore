@@ -1,8 +1,8 @@
 # HP-ProDesk600-G5-mini-OpenCore
 Repository to hold the files needed to install and run macOS on HP ProDesk G5 mini
+Change XX-MASKED-XX values in PlatformInfo section in config.plist file with your own values. Use [GenSMBIOS](!https://github.com/corpnewt/GenSMBIOS).
 
 ##### Tested versions
-
 OpenCore: 0.5.9
 
 MacOS: macOS Catalina 10.15.6
